@@ -1,0 +1,15 @@
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.csprojAssemblyReference.cache
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\MainWindow.g.cs
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\App.g.cs
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml_MarkupCompile.cache
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml_MarkupCompile.lref
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\bin\Debug\Third_Xaml.exe.config
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\bin\Debug\Third_Xaml.exe
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\bin\Debug\Third_Xaml.pdb
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\MainWindow.baml
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.g.resources
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.Properties.Resources.resources
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.csproj.GenerateResource.cache
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.csproj.CoreCompileInputs.cache
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.exe
+C:\Users\Djfan\Desktop\xamlProjects\Third_Xaml\obj\Debug\Third_Xaml.pdb
